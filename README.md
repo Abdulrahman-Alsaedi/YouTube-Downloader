@@ -45,6 +45,6 @@ A simple Python-based application that allows users to **download YouTube videos
 * Ensure you have a stable internet connection during the download process.
 * Downloaded videos will be saved in the same directory where the script is executed.
 
-💡 Feel free to contribute or open an issue if you find a bug!␣␣  
+💡 Feel free to contribute or open an issue if you find a bug! <br>
 📩 For suggestions or improvements, drop a message! 🚀
 
