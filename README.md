@@ -20,3 +20,10 @@ A simple Python-based application that allows users to **download YouTube videos
 2. **Navigate to the project directory:**
    ```bash
    cd YouTube-Downloader
+3. **(Optional) Create and activate a virtual environment:**
+   ```bash
+   python -m venv myenv
+   # On Windows, use 'myenv\Scripts\activate'
+4. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
