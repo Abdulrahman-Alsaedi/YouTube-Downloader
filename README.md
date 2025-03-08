@@ -39,8 +39,6 @@ A simple Python-based application that allows users to **download YouTube videos
    pip install python-vlc
    pip install moviepy
 
-
-
 ## 🎯 Usage
 
 1. **Run the main script:**
