@@ -29,7 +29,8 @@ A simple Python-based application that allows users to **download YouTube videos
 4. **Install the required dependencies:**
    ```bash
    pip install -r requirements.txt
-Or
+   ```
+   Or
    ```bash
    pip install tkinter
    pip install ttkbootstrap
