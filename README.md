@@ -30,7 +30,7 @@ A simple Python-based application that allows users to **download YouTube videos
    ```bash
    pip install -r requirements.txt
    ```
-   Or
+   Or you can install it manually
    ```bash
    pip install tkinter
    pip install ttkbootstrap
