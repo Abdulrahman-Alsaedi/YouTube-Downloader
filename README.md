@@ -16,3 +16,7 @@ A simple Python-based application that allows users to **download YouTube videos
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Abdulrahman-Alsaedi/YouTube-Downloader.git
+
+2. **Navigate to the project directory:**
+   ''' bash
+   cd YouTube-Downloader
