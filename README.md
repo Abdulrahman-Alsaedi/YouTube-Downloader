@@ -38,7 +38,7 @@ A simple Python-based application that allows users to **download YouTube videos
    pip install pillow
    pip install python-vlc
    pip install moviepy
-```
+
 
 
 ## 🎯 Usage
