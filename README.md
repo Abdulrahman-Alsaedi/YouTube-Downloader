@@ -27,3 +27,23 @@ A simple Python-based application that allows users to **download YouTube videos
 4. **Install the required dependencies:**
    ```bash
    pip install -r requirements.txt
+
+## 🎯 Usage
+
+1. **Run the main script:**
+   ```bash
+   python main.py
+2. **Follow the on-screen prompts:**
+   * Enter the URL of the YouTube video you wish to download.
+   * Select the desired video quality from the provided options.
+   * The video will be downloaded to the current directory.
+
+## 📌 Notes
+* Ensure you have a stable internet connection during the download process.
+* Downloaded videos will be saved in the same directory where the script is executed.
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+💡 Feel free to contribute or open an issue if you find a bug!
+📩 For suggestions or improvements, drop a message! 🚀
